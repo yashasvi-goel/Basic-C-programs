@@ -1,4 +1,10 @@
 #include <stdio.h>
+/*
+ * Made by Yashasvi Goel
+ * Enter the string from which words are to be extracted;
+ * the output is enclosed in ':';
+ * Thu Oct 12 09:05:39 IST 2017
+*/
 int main()
 {
 	int t;
