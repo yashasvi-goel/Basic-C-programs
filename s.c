@@ -1,3 +1,10 @@
+/*
+	This is a data set generator for the numbers
+	=>compile using gcc and run as
+	=>$./a.out>>data
+	=> You will get 50000 randomly generated numbers
+	=>These numbers can be used as input for other sorting algorithms in this repository
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int main()
