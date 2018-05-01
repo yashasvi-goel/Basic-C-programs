@@ -1,3 +1,8 @@
+/*
+* Made by Yashasvi Goel
+* Input the number of lines ypu want in your pattern;
+* The output contains a pattern of stars which look like a play button;
+*/
 #include <stdio.h>
 int main()
 {
