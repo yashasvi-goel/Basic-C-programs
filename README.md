@@ -4,6 +4,6 @@ This is a repository containing some basic cpp programs.
 These can be applied to other larger problems.
 The respective documentation for each one can be found in the respective file.
 
-Fork this repository, if you use any of this code.
+Star this repository, if you use any of this code.
 
 Cheers.
