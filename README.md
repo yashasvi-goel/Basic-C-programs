@@ -10,4 +10,7 @@ Star this repository, if you use any of this code.
 The only rules are that your code should be working, authentic and have clear instructions about how to use it.
 
 
+[ List of contributors](https://github.com/yashasvi-goel/Basic-C-programs/blob/master/CONTRIBUTORS.md)
+
+
 Cheers.
