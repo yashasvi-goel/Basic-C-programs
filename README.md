@@ -1,4 +1,5 @@
 # Basic-C-programs:
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 This is a repository containing some basic cpp programs.
 These can be applied to other larger problems.
@@ -14,3 +15,19 @@ The only rules are that your code should be working, authentic and have clear in
 
 
 Cheers.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Sahilkalamkar"><img src="https://avatars3.githubusercontent.com/u/44552119?v=4" width="100px;" alt="Sahilkalamkar"/><br /><sub><b>Sahilkalamkar</b></sub></a><br /><a href="https://github.com/yashasvi-goel/Basic-C-programs/commits?author=Sahilkalamkar" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
