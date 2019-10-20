@@ -1,5 +1,5 @@
 # Basic-C-programs:
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 This is a repository containing some basic cpp programs.
 These can be applied to other larger problems.
@@ -25,6 +25,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Sahilkalamkar"><img src="https://avatars3.githubusercontent.com/u/44552119?v=4" width="100px;" alt="Sahilkalamkar"/><br /><sub><b>Sahilkalamkar</b></sub></a><br /><a href="https://github.com/yashasvi-goel/Basic-C-programs/commits?author=Sahilkalamkar" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/allhailthethanos"><img src="https://avatars2.githubusercontent.com/u/55079966?v=4" width="100px;" alt="allhailthethanos"/><br /><sub><b>allhailthethanos</b></sub></a><br /><a href="https://github.com/yashasvi-goel/Basic-C-programs/commits?author=allhailthethanos" title="Code">💻</a></td>
   </tr>
 </table>
 
