@@ -1,5 +1,8 @@
-#include<iostream.h>
-void fact(int n)
+/*Author Shobhit Belwal
+Program to calculate factorial using recursion
+*/
+#include<stdio.h>
+int fact(int n)
 {
 	if(n==0)
 	return 1;
