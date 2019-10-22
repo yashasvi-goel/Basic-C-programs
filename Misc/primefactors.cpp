@@ -1,3 +1,4 @@
+//Author: zomsik
 #include<iostream>
 #include<cstdlib>
 #include<cmath>
