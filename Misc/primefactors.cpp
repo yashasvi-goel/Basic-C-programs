@@ -1,25 +1,24 @@
 //Author: zomsik
-#include<iostream>
-#include<cstdlib>
-#include<cmath>
+#include <iostream>
+#include <cmath>
 
 using namespace std;
 
 int main()
 {
-    int n, pierw, pom;
+    int n, squareroot;
 
         cout<<"Give number: ";
         cin>>n;
 
-        pierw = sqrt(n);
+        squareroot = sqrt(n);
 
         cout<<"Prime factors of "<<n<<": ";
 
         int k=2;
 
 
-        while(n>1&&k<=pierw)
+        while(n>1&&k<=squareroot)
         {
                 while(n%k==0)
                 {
@@ -30,9 +29,7 @@ int main()
         }
 
         if(n>1)
-               cout<<n;
+        cout<<n;
         cout<<endl;
-
-        system("pause");
         return 0;
 }
