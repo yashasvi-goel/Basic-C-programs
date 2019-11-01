@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: configure
-#       run: gcc -v
+      run: gcc -v
 #     - name: make
 #       run: make
 #     - name: make check
