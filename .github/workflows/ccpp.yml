@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: configure
-      run: make `find -regex '.*/.*\.\(c\|cpp\|h\)$'`
+      run: find -regex '.*/.*\.\(c\|cpp\|h\)$' |xargs -n1 g++
 #     - name: make
 #       run: make
 #     - name: make check
