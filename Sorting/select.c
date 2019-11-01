@@ -19,7 +19,7 @@ int main()
 		int a[n];
 		for(int i=0;i<n;i++)
 			scanf("%d",&a[i]);
-//		int key,temp;
+		int key,temp;
 		//		for(int k=0;k<n;k++)
 		for(int i=0;i<n;i++)
 		{

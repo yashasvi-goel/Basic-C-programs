@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<string.h>
 /*
  * Made by Yashasvi Goel
  * Enter the string from which words are to be extracted;
