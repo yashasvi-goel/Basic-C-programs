@@ -1,6 +1,6 @@
 # Basic-C-programs:
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)![](https://github.com/yashasvi-goel/Basic-C-programs/workflows/.github/workflows/Compilation/badge.svg?event=pull_request)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)![](https://github.com/yashasvi-goel/Basic-C-programs/workflows/.github/workflows/ccpp.yml/badge.svg?event=pull_request)
 
 This is a repository containing some basic cpp programs.
 These can be applied to other larger problems.
