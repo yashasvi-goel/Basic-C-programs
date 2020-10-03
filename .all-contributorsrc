@@ -58,11 +58,21 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Dhull442",
+      "name": "Saksham Dhull",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/30925029?v=4",
+      "profile": "http://dhull442.github.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "Basic-C-programs",
   "projectOwner": "yashasvi-goel",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
